@@ -1,6 +1,5 @@
 import React from "react";
 import { Button } from "@mui/material";
-import axios from "axios"
 import "./home.css"
 import Footer from "../footer/footer";
 import Wavee from "../wave/wave";
